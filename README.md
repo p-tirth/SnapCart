@@ -1,1 +1,1 @@
-# SnapCart
+# SnapKart

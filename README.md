@@ -1,1 +1,1 @@
-# WireCart
+# SnapCart
